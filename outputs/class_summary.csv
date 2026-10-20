@@ -1,0 +1,21 @@
+department,class_name,reviews,avg_rating,pct_negative,pct_recommended,top_complaint_topic
+Bottoms,Casual bottoms,1,4.0,0.0,100.0,
+Bottoms,Jeans,1104,4.3,12.1,88.0,Material quality vs price
+Bottoms,Pants,1350,4.3,16.1,83.3,Material quality vs price
+Bottoms,Shorts,304,4.3,17.1,83.9,Length and proportions
+Bottoms,Skirts,903,4.2,15.5,84.2,Unflattering fabric or cut
+Dresses,Dresses,6145,4.1,20.7,80.5,Length and proportions
+Intimate,Chemises,1,4.0,0.0,100.0,
+Intimate,Intimates,147,4.3,16.3,85.7,Material quality vs price
+Intimate,Layering,132,4.3,10.6,87.9,Material quality vs price
+Intimate,Legwear,158,4.2,13.3,85.4,Material quality vs price
+Intimate,Lounge,669,4.3,15.2,85.8,Material quality vs price
+Intimate,Sleep,214,4.3,12.6,85.5,Material quality vs price
+Intimate,Swim,332,4.2,19.6,79.5,Runs small / large
+Jackets,Jackets,683,4.3,15.5,84.3,Material quality vs price
+Jackets,Outerwear,319,4.2,19.1,81.2,Material quality vs price
+Tops,Blouses,2983,4.1,21.7,80.7,Length and proportions
+Tops,Fine gauge,1059,4.2,17.7,83.3,Length and proportions
+Tops,Knits,4626,4.1,19.6,81.2,Material quality vs price
+Tops,Sweaters,1380,4.2,21.1,79.7,Length and proportions
+Trend,Trend,118,3.8,30.5,74.6,Unflattering fabric or cut
